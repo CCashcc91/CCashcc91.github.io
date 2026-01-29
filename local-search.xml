@@ -4,37 +4,6 @@
   
   
   <entry>
-    <title>使用 Hexo 搭建我的个人博客</title>
-    <link href="/2026/01/28/Hello-my-first-blog/"/>
-    <url>/2026/01/28/Hello-my-first-blog/</url>
-    
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这是我使用 <strong>Hexo + Markdown</strong> 搭建的第一篇博客文章 🎉<br>Hexo 是一个 <strong>快速、简洁、高效</strong> 的静态博客框架，非常适合程序员和技术爱好者。</p><p>如果你也想搭建个人博客，希望这篇文章能对你有所帮助。</p><hr><h2 id="目录导航"><a href="#目录导航" class="headerlink" title="目录导航"></a>目录导航</h2><ul><li><a href="#hexo-%E6%98%AF%E4%BB%80%E4%B9%88">Hexo 是什么</a></li><li><a href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9-hexo">为什么选择 Hexo</a></li><li><a href="#markdown-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95">Markdown 基本语法</a></li><li><a href="#%E5%B8%B8%E7%94%A8%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">常用外部链接</a></li><li><a href="#%E6%80%BB%E7%BB%93">总结</a></li></ul><hr><h2 id="Hexo-是什么"><a href="#Hexo-是什么" class="headerlink" title="Hexo 是什么"></a>Hexo 是什么</h2><p><strong>Hexo</strong> 是一个基于 Node.js 的静态博客框架，支持：</p><ul><li>Markdown 写作</li><li>主题高度可定制</li><li>GitHub Pages &#x2F; Vercel &#x2F; Netlify 部署</li><li>速度快、维护成本低</li></ul><p>官网地址 👉 <a href="https://hexo.io/">https://hexo.io</a></p><hr><h2 id="为什么选择-Hexo"><a href="#为什么选择-Hexo" class="headerlink" title="为什么选择 Hexo"></a>为什么选择 Hexo</h2><p>我选择 Hexo 的原因主要有以下几点：</p><ol><li><strong>写作体验好</strong>：专注 Markdown 内容本身  </li><li><strong>部署简单</strong>：一条命令即可生成静态页面  </li><li><strong>生态成熟</strong>：主题和插件非常丰富  </li><li><strong>对技术博客友好</strong></li></ol><p>如果你偏向记录学习笔记、技术总结，Hexo 非常合适。</p><hr><h2 id="Markdown-基本语法"><a href="#Markdown-基本语法" class="headerlink" title="Markdown 基本语法"></a>Markdown 基本语法</h2><h3 id="1️⃣-标题"><a href="#1️⃣-标题" class="headerlink" title="1️⃣ 标题"></a>1️⃣ 标题</h3><pre><code class="markdown"># 一级标题## 二级标题### 三级标题</code></pre>]]></content>
-    
-    
-    <categories>
-      
-      <category>技术</category>
-      
-      <category>博客搭建</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Hexo</tag>
-      
-      <tag>Markdown</tag>
-      
-      <tag>Blog</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2026/01/28/hello-world/"/>
     <url>/2026/01/28/hello-world/</url>
